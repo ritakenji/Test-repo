@@ -20,4 +20,4 @@ Testing how to create this with the class
 ![Duckling](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages8.alphacoders.com%2F409%2F409477.jpg&f=1&nofb=1&ipt=9fc087380467493f68ab4ee7390fffb7997d9cad0fdee7272ecb0eaf3a4031a8)
 
 ### Internal Source
-![Duckling and Kitten](/duck-kitty.jpg)
+![Duckling and Kitten](/duck_kitty.jpg)
